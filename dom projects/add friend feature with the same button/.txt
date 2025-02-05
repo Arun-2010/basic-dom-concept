@@ -1,0 +1,12 @@
+5 projects with dom
+
+1.add friend feature with the same button
+
+2.insta like button
+
+3.custom cursor
+
+4.multiple image hovering 
+
+
+5.insta story feature
